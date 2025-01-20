@@ -69,7 +69,7 @@ $ npm run dev
 
 ![Screenshot mobile screen](länk)
 
-#### Desktop
+### Desktop
 
 ![Screenshot desktop welcome-screen](/link)
 
