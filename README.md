@@ -30,7 +30,6 @@ Short info about project/ what is this?
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
-  - [Live version](#live-version)
   - [Wireframes](#wireframes)
 - [Documentation](#documentation)
   - [Lighthouse report](#lighthouse-report)
