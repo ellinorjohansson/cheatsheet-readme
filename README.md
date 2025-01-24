@@ -27,6 +27,7 @@ Short info about project/ what is this?
 
 ## Table of Contents
 
+- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Screenshots](#screenshots)
@@ -36,6 +37,10 @@ Short info about project/ what is this?
   - [Validation](#validation)
 - [Acknowledgements](#acknowledgements)
 - [Authors](#authors)
+
+## Features
+* ex: Shuffle and display the cards randomly each time a new game starts.
+* and so on
 
 ## Tech Stack
 
@@ -101,7 +106,7 @@ $ npm run dev
 
 ## Acknowledgements
 
-- Normalize.css from [Necolas](link)
+- Normalize.css from [Someone](link)
 
 ## Authors
 
