@@ -56,6 +56,7 @@ Short info about project/ what is this?
 - ![ESLint](https://img.shields.io/badge/ESLint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
 - ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 - ![Stylelint](https://img.shields.io/badge/Stylelint-%23000000.svg?style=for-the-badge&logo=stylelint&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Installation
 
