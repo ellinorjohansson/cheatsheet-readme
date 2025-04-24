@@ -57,6 +57,11 @@ Short info about project/ what is this?
 - ![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=white)
 - ![Stylelint](https://img.shields.io/badge/Stylelint-%23000000.svg?style=for-the-badge&logo=stylelint&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%23f89500.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+- ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 
 ## Installation
 
